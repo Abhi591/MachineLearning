@@ -1,0 +1,1 @@
+This program just explores how to maintain learning rate and epochs
