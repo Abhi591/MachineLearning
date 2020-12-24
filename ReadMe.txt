@@ -6,3 +6,10 @@
            Use tf.feature_column methods to represent features in different ways.
            Represent features as bins.
            cross bins to create a feature cross.
+         
+#Binary classification on california housing dataset
+          Using 4 metrics ,  BinaryAccuracy 
+                             Precision
+                             Recall
+                             AUC
+                             
